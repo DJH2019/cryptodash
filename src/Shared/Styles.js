@@ -8,8 +8,8 @@ export const color2 = lightTheme ? 'white' : '#010e2c';
 export const color3 = lightTheme ? '#09f010' : '#42ff3a';
 
 if (lightTheme) {
-    document.body.style.background = '#e1eaee';
-    document.body.style.color = '#061a44';
+  document.body.style.background = '#e1eaee';
+  document.body.style.color = '#061a44';
 }
 
 export const lightBlueBackground = `background-color: ${color}`;
